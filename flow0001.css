@@ -303,6 +303,7 @@ font-style: italic;
 /** 下划线**/
 span.kindle-cn-underline{
 text-decoration: underline;
+text-underline-position: under;
 }
 
 /** 删除线 **/
